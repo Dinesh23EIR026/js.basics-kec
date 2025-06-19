@@ -8,8 +8,4 @@ console.log("A grade");
     console.log("C Grade");
 }
 
-if(90){
-    console.log("True value");
-}else{
-    console.log("False value");
-}
+
