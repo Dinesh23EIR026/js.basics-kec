@@ -19,7 +19,7 @@ veg.shift();
 console.log(veg, "shift ele")
 
 console.log("slice: " + veg);
-let removedEle = veg.slice(3);
+let removedEle = veg.splice(2,1);
 console.log(removedEle);
 console.log(veg);
 
